@@ -1,5 +1,7 @@
 import React from "react";
-
+import {if (condition) {
+  
+}mage} from "./data/user.js";
 function About() {
   return (
     <div id="about">
@@ -9,3 +11,4 @@ function About() {
     </div>
   );
 }
+export default about;
